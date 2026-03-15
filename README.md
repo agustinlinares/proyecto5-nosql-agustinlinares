@@ -18,7 +18,7 @@ Incluye CRUD completo de **Movies** y un recurso extra **Actors** para practicar
 
 Captura del arranque + conexión a BBDD:
 
-![Arranque](docs/01-arranque.png)
+![Arranque](docs/arranque.png)
 
 ---
 
