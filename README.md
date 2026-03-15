@@ -72,10 +72,10 @@ Para cargar películas iniciales (seed):
 Body ejemplo (POST `/api/movies`):
 
     {
-      "title": "The Matrix",
-      "director": "Hermanas Wachowski",
-      "year": 1999,
-      "genre": "Acción"
+      "title": "Torrente, el brazo tonto de la ley",
+      "director": "Santiago Segura",
+      "year": 1998,
+      "genre": "Comedia"
     }
 
 ---
@@ -93,9 +93,9 @@ Body ejemplo (POST `/api/movies`):
 Body ejemplo (POST `/api/actors`):
 
     {
-      "name": "Keanu Reeves",
-      "birthYear": 1964,
-      "nationality": "Canadian",
+      "name": "Antonio Banderas",
+      "birthYear": 1960,
+      "nationality": "Spanish",
       "active": true
     }
 
