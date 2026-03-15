@@ -123,7 +123,7 @@ Incluyen llamadas correctas a endpoints + capturas de errores (404/500) y el arr
       utils/
     index.js
     docs/
-      01-arranque.png
+      arranque.png
       movies/
       actors/
 
